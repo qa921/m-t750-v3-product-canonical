@@ -1,0 +1,1 @@
+{"name":"m-t750-v3-product-canonical","private":true,"version":"0.8.0","scripts":{"build":"vite build","test":"node --test"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest"},"devDependencies":{}}
